@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\cardescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\cardescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|c:\\users\\egemen\\desktop\\onionarchitectureproject\\core\\rentacar.domain\\entities\\carfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3068743-383A-4483-A0F9-556C606723DB}|Core\\RentACar.Domain\\RentACar.Domain.csproj|solutionrelative:core\\rentacar.domain\\entities\\carfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:19:16.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\About.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:17:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDescription.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\CarDescription.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\CarDescription.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\CarDescription.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\CarDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:12:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarFeature.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\CarFeature.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\CarFeature.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\CarFeature.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\CarFeature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:06:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Feature.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\Feature.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Feature.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:22:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\RentACar.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\egemen\\Desktop\\OnionArchitectureProject\\Core\\RentACar.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "Core\\RentACar.Domain\\Entities\\Car.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:14:37.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
